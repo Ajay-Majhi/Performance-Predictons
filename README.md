@@ -1,6 +1,6 @@
 # Performance-Predictons
 # Our Prediction based on this datasets ,datasets contain some pattern :---
-# Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
+
 1 school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)</br>
 2 sex - student's sex (binary: "F" - female or "M" - male)</br>
 3 age - student's age (numeric: from 15 to 22)</br>
